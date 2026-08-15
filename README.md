@@ -88,6 +88,7 @@ Complementary services for bypassing geo-blocks and CAPTCHAs.
 
 Cloud platforms primarily for testing but usable for automation.
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Open-source QA agent for natural-language browser tests with run memory and UI-change adaptation.
 - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - Built-in browser testing support with Docker.
 - [GitHub Actions](https://github.com/features/actions) - Run Playwright/Puppeteer tests in CI. Free tier available.
 
