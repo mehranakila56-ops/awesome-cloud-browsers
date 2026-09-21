@@ -28,6 +28,7 @@ Fully managed cloud browser sessions — spin up via API, connect via WebSocket/
 - [Browserbase](https://browserbase.com) - Headless browser infrastructure for AI agents. Playwright-native with session recording, replay, and a developer-friendly SDK. Strong DX focus.
 - [BrowserCloud](https://browsercloud.io) - Cloud browser infrastructure with enterprise features. Multi-framework support (Puppeteer, Playwright, Selenium). SOC-2 and HIPAA compliant with unlimited concurrent browsers.
 - [Browserless](https://browserless.io) - Open-source-friendly cloud browser service. Supports Puppeteer and Playwright, REST API for screenshots and scraping, plus Docker self-hosting.
+- [Gologin](https://gologin.com) - Cloud browser with persistent profiles and built-in proxies, CDP-compatible.
 - [Hyperbrowser](https://hyperbrowser.ai) - Cloud browser platform focused on web scraping and AI agent automation. Streaming support and structured extraction.
 - [Moonsurf](https://moonsurf.ai) - Next-gen cloud browser with a collective knowledge graph for agent learning. Listed on Anthropic's official MCP servers.
 
