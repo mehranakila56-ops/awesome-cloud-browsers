@@ -24,6 +24,7 @@ Cloud browsers let you run automated browser sessions without managing your own 
 
 Fully managed cloud browser sessions — spin up via API, connect via WebSocket/CDP.
 
+- [AdsCrawl](https://www.adscrawl.net) - Managed cloud browser API with remote CDP access for Playwright and Puppeteer, reusable browser profiles, rendered HTML/Markdown and screenshot endpoints, and a hosted MCP server.
 - [AnchorBrowser](https://anchorbrowser.io) - Cloud browser platform for AI agents. Humanized Chromium with built-in stealth, CAPTCHA solving, proxy rotation, and SSO/MFA handling. MCP server available. Cloudflare Verified Browser Agent partner. Works with Puppeteer, Playwright, and CDP.
 - [Browserbase](https://browserbase.com) - Headless browser infrastructure for AI agents. Playwright-native with session recording, replay, and a developer-friendly SDK. Strong DX focus.
 - [BrowserCloud](https://browsercloud.io) - Cloud browser infrastructure with enterprise features. Multi-framework support (Puppeteer, Playwright, Selenium). SOC-2 and HIPAA compliant with unlimited concurrent browsers.
